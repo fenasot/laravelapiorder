@@ -1,6 +1,4 @@
-# AsiaYo - Jr Backend Engineer 測驗
-
-## laravel
+# laravel api post 實作
 
 ### 啟動 ( 路徑為 `localhost:8080/api/orders` )
 
